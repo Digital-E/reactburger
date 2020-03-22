@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactburger/static/css/main.7f38baeb.chunk.css",
+    "main.js": "/reactburger/static/js/main.d4369ef6.chunk.js",
+    "main.js.map": "/reactburger/static/js/main.d4369ef6.chunk.js.map",
+    "runtime-main.js": "/reactburger/static/js/runtime-main.be625298.js",
+    "runtime-main.js.map": "/reactburger/static/js/runtime-main.be625298.js.map",
+    "static/js/2.52bb423e.chunk.js": "/reactburger/static/js/2.52bb423e.chunk.js",
+    "static/js/2.52bb423e.chunk.js.map": "/reactburger/static/js/2.52bb423e.chunk.js.map",
+    "index.html": "/reactburger/index.html",
+    "precache-manifest.278ef0ec5a298232481719522f952d26.js": "/reactburger/precache-manifest.278ef0ec5a298232481719522f952d26.js",
+    "service-worker.js": "/reactburger/service-worker.js",
+    "static/css/main.7f38baeb.chunk.css.map": "/reactburger/static/css/main.7f38baeb.chunk.css.map",
+    "static/js/2.52bb423e.chunk.js.LICENSE.txt": "/reactburger/static/js/2.52bb423e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be625298.js",
+    "static/js/2.52bb423e.chunk.js",
+    "static/css/main.7f38baeb.chunk.css",
+    "static/js/main.d4369ef6.chunk.js"
+  ]
+}
